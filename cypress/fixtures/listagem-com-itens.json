@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Agilizei",
+        "lastName": "Bootcamp",
+        "adress": "Sem rua",
+        "emailAdress": "test@mail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Livros"
+        ],
+        "selectCountries": "Hong Kong",
+        "selectYears": "1999",
+        "selectMonths": "Dezembro",
+        "pwd": "Arthur123"
+    },
+    {
+        "firstName": "Arthur",
+        "lastName": "Lisboa",
+        "adress": "Rua senador",
+        "emailAdress": "arthur@mail.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Livros"
+        ],
+        "selectCountries": "Hong Kong",
+        "selectYears": "1999",
+        "selectMonths": "Dezembro",
+        "pwd": "Arthur123"
+    }
+]
