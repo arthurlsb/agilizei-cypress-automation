@@ -8,14 +8,11 @@ To acess the test report click on this link: https://arthurlsb.github.io/agilize
 
 ## Test execution gif
 
-###Registration spec
-
-![agilizei-cypress-automation(listing)](https://user-images.githubusercontent.com/94870259/150653232-79e4b84c-9de7-4802-ad0d-4cb18044fc3c.gif)
 >Listing spec
+![agilizei-cypress-automation(listing)](https://user-images.githubusercontent.com/94870259/150653232-79e4b84c-9de7-4802-ad0d-4cb18044fc3c.gif)
 
-![agilizei-cypress-automation(registration)](https://user-images.githubusercontent.com/94870259/150653230-54cbac95-0d54-4946-b89b-87c1b528cd71.gif)
 >Registration spec
-
+![agilizei-cypress-automation(registration)](https://user-images.githubusercontent.com/94870259/150653230-54cbac95-0d54-4946-b89b-87c1b528cd71.gif)
 
 ## Configuring the environment
 1. Clone the repository 
