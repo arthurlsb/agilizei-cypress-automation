@@ -30,5 +30,6 @@ npm run cy:open
 4. Execute Cypress Headless
 ```
 npm run cy:run
+```
 
 
