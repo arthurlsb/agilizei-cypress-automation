@@ -20,7 +20,7 @@ To acess the test report click on this link: https://arthurlsb.github.io/agilize
 ## Configuring the environment
 1. Clone the repository 
 ```
-git clone https://github.com/arthurlsb/yourlogo-cypress-automation.git
+git clone https://github.com/arthurlsb/agilizei-cypress-automation.git
 ```
 2. Install necessary dependencies 
 ```
