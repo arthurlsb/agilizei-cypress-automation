@@ -3,7 +3,8 @@
   "reporter": "cypress-multi-reporters",
   "reporterOptions": {
     "configFile": "reporter-config.json"
-  }
-    
+  },
+  "integrationFolder": "cypress/tests",
+  "baseUrl": "https://form-agilizei.netlify.app"
 
 }
