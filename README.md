@@ -17,6 +17,10 @@ To acess the test report click on this link: https://arthurlsb.github.io/agilize
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ![agilizei-cypress-automation(registration)](https://user-images.githubusercontent.com/94870259/150653230-54cbac95-0d54-4946-b89b-87c1b528cd71.gif)
 >Registration spec
