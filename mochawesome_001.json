@@ -5,9 +5,9 @@
     "passes": 1,
     "pending": 0,
     "failures": 0,
-    "start": "2022-01-22T19:58:24.018Z",
-    "end": "2022-01-22T19:58:28.929Z",
-    "duration": 4911,
+    "start": "2022-01-22T19:59:32.137Z",
+    "end": "2022-01-22T19:59:38.234Z",
+    "duration": 6097,
     "testsRegistered": 1,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "6fead7cc-335f-4a8b-8314-4a33805201a5",
+      "uuid": "b7c1dd8e-4dd4-4a81-8694-2b62fb57d381",
       "title": "",
       "fullFile": "cypress/tests/registration.spec.js",
       "file": "cypress/tests/registration.spec.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "cd2532d1-f8f1-43b8-8f90-2a87752f318d",
+          "uuid": "08b15327-55a0-413e-9a1a-a68ea013931c",
           "title": "Registration",
           "fullFile": "",
           "file": "",
@@ -38,29 +38,29 @@
               "title": "When I inform the data and finish, then the registration must be done",
               "fullTitle": "Registration When I inform the data and finish, then the registration must be done",
               "timedOut": null,
-              "duration": 4816,
+              "duration": 5947,
               "state": "passed",
-              "speed": "fast",
+              "speed": "medium",
               "pass": true,
               "fail": false,
               "pending": false,
               "context": null,
               "code": "_registration.default.fillForm();\n_registration.default.submitForm();\n_registration.default.checkRegistrationSucessfully();",
               "err": {},
-              "uuid": "f8683913-65f1-48e5-9de5-77652f26b387",
-              "parentUUID": "cd2532d1-f8f1-43b8-8f90-2a87752f318d",
+              "uuid": "a5a6901f-ce24-44b1-9a5d-87779b7c1dfa",
+              "parentUUID": "08b15327-55a0-413e-9a1a-a68ea013931c",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "f8683913-65f1-48e5-9de5-77652f26b387"
+            "a5a6901f-ce24-44b1-9a5d-87779b7c1dfa"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 4816,
+          "duration": 5947,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
