@@ -8,7 +8,7 @@ To acess the test report click on this link: https://arthurlsb.github.io/agilize
 
 ## Test execution gif
 
-This section contains the test run gif on each spec:&nbsp;
+This section contains the test execution gif on each spec:&nbsp;
 
 ![agilizei-cypress-automation(listing)](https://user-images.githubusercontent.com/94870259/150653232-79e4b84c-9de7-4802-ad0d-4cb18044fc3c.gif)
 >Listing spec
