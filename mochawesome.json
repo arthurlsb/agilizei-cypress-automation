@@ -5,9 +5,9 @@
     "passes": 2,
     "pending": 0,
     "failures": 0,
-    "start": "2022-01-22T19:57:34.002Z",
-    "end": "2022-01-22T19:57:36.090Z",
-    "duration": 2088,
+    "start": "2022-01-22T19:57:49.040Z",
+    "end": "2022-01-22T19:58:00.882Z",
+    "duration": 11842,
     "testsRegistered": 2,
     "passPercent": 100,
     "pendingPercent": 0,
@@ -18,7 +18,7 @@
   },
   "results": [
     {
-      "uuid": "c87508c2-d9e5-439a-a8ba-fd574056ce33",
+      "uuid": "ee07fc6b-7a22-4ef7-8a2d-a2d76a972025",
       "title": "",
       "fullFile": "cypress/tests/listing.spec.js",
       "file": "cypress/tests/listing.spec.js",
@@ -27,7 +27,7 @@
       "tests": [],
       "suites": [
         {
-          "uuid": "3ab37b3f-04c1-46d6-ac94-cc4ef3537bd0",
+          "uuid": "21074624-ea39-477a-ae40-3515e5038a25",
           "title": "Listagem",
           "fullFile": "",
           "file": "",
@@ -38,7 +38,7 @@
               "title": "When there are no entries, then the listing must be empty",
               "fullTitle": "Listagem When there are no entries, then the listing must be empty",
               "timedOut": null,
-              "duration": 1571,
+              "duration": 1605,
               "state": "passed",
               "speed": "fast",
               "pass": true,
@@ -47,8 +47,8 @@
               "context": null,
               "code": "_listing.default.fillWithEmptyList();\ncy.visit('/listagem.html');\n_listing.default.checkIfListLengthIs0();",
               "err": {},
-              "uuid": "e64fd8c7-f828-4201-b4fd-4d11d739f23d",
-              "parentUUID": "3ab37b3f-04c1-46d6-ac94-cc4ef3537bd0",
+              "uuid": "e01fa2af-1885-420c-9efa-4c051f84b66e",
+              "parentUUID": "21074624-ea39-477a-ae40-3515e5038a25",
               "isHook": false,
               "skipped": false
             },
@@ -56,30 +56,30 @@
               "title": "When there are one or more records, then the listing should display each record",
               "fullTitle": "Listagem When there are one or more records, then the listing should display each record",
               "timedOut": null,
-              "duration": 426,
+              "duration": 10090,
               "state": "passed",
-              "speed": "fast",
+              "speed": "slow",
               "pass": true,
               "fail": false,
               "pending": false,
               "context": null,
               "code": "_listing.default.fillWithListItens();\ncy.visit('/listagem.html');\n_listing.default.checkIfListLengthIsGreaterThan0();",
               "err": {},
-              "uuid": "e34dd917-5b3a-4245-a4c5-3c0e7624aec8",
-              "parentUUID": "3ab37b3f-04c1-46d6-ac94-cc4ef3537bd0",
+              "uuid": "38d95d97-8ddf-4167-a23b-866d329a7ccd",
+              "parentUUID": "21074624-ea39-477a-ae40-3515e5038a25",
               "isHook": false,
               "skipped": false
             }
           ],
           "suites": [],
           "passes": [
-            "e64fd8c7-f828-4201-b4fd-4d11d739f23d",
-            "e34dd917-5b3a-4245-a4c5-3c0e7624aec8"
+            "e01fa2af-1885-420c-9efa-4c051f84b66e",
+            "38d95d97-8ddf-4167-a23b-866d329a7ccd"
           ],
           "failures": [],
           "pending": [],
           "skipped": [],
-          "duration": 1997,
+          "duration": 11695,
           "root": false,
           "rootEmpty": false,
           "_timeout": 2000
