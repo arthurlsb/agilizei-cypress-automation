@@ -1,12 +1,14 @@
 # Agilizei Cypress Automation
  
 ## Description
-This repository contains automated tests to validate a user's journey when registering in [Agilizei website](https://form-agilizei.netlify.app/) and validate the listing of that same webiste
+This repository contains automated tests to validate a user's journey when registering in [Agilizei website](https://form-agilizei.netlify.app/) and validate the listing of that same webiste.
 
 ## Test report
 To acess the test report click on this link: https://arthurlsb.github.io/agilizei-cypress-automation/
 
 ## Test execution gif
+
+This section contains the test run gif on each spec.
 
 ![agilizei-cypress-automation(listing)](https://user-images.githubusercontent.com/94870259/150653232-79e4b84c-9de7-4802-ad0d-4cb18044fc3c.gif)
 >Listing spec
